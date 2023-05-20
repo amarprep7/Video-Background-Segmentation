@@ -1,0 +1,6 @@
+Description of the specific parameters used
+
+alpha=0.05
+rho=0.1
+k=3 
+threshold=0.7
